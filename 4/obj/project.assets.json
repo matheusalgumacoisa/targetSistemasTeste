@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\C#\\Solution1\\Nova pasta\\targetSistemasTeste\\5\\2.csproj",
-      "projectName": "2",
-      "projectPath": "C:\\Users\\mathe\\Desktop\\C#\\Solution1\\Nova pasta\\targetSistemasTeste\\5\\2.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\C#\\Solution1\\Nova pasta\\targetSistemasTeste\\4\\4.csproj",
+      "projectName": "4",
+      "projectPath": "C:\\Users\\mathe\\Desktop\\C#\\Solution1\\Nova pasta\\targetSistemasTeste\\4\\4.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\Desktop\\C#\\Solution1\\Nova pasta\\targetSistemasTeste\\5\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\Desktop\\C#\\Solution1\\Nova pasta\\targetSistemasTeste\\4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
